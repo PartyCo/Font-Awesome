@@ -10,6 +10,22 @@ not have access**
 
 ---
 
+## [5.15.4](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.15.4) - 2021-08-04
+
+### Changed
+
+* Removed the tripadvisor brand icon by request of Tripadvisor
+* Update bug, bullseye, drone, icons FortAwesome/Font-Awesome#17800 FortAwesome/Font-Awesome#17106 FortAwesome/Font-Awesome#17730
+* Update bootstrap, discord, figma, and font-awesome-* brand icons FortAwesome/Font-Awesome#17436
+
+### Fixed
+
+* Made font-family matching case-insensitive for SVG + JavaScript version of Font Awesome FortAwesome/Font-Awesome#17860
+* Corrected missing version hospital-user FortAwesome/Font-Awesome#17435
+* Removed useless .tgz file in @fortawesome/fontawesome-pro and all @fortawesome/pro-*-svg-icons
+
+---
+
 ## [5.15.3](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.15.3) - 2021-03-16
 
 ### Changed
@@ -409,7 +425,7 @@ information.**
 
 ---
 
-## [5.5.0](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.5.0)  - 2018-11-02
+## [5.5.0](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.5.0) - 2018-11-02
 
 ### Added
 * Politics category
@@ -422,7 +438,7 @@ information.**
 
 ---
 
-## [5.4.2](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.4.2)  - 2018-10-25
+## [5.4.2](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.4.2) - 2018-10-25
 
 ### Added
 * Brand icon think-peaks
@@ -438,7 +454,7 @@ information.**
 
 ---
 
-## [5.4.1](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.4.1)  - 2018-10-10
+## [5.4.1](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.4.1) - 2018-10-10
 
 ### Fixed
 * Separate wand and wand-magic into unique icons
@@ -447,7 +463,7 @@ information.**
 
 ---
 
-## [5.4.0](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.4.0)  - 2018-10-08
+## [5.4.0](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.4.0) - 2018-10-08
 
 ### Added
 * New Tabletop Gaming, Holiday, Seasonal category
@@ -473,7 +489,7 @@ information.**
 
 ---
 
-## [5.3.1](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.3.1)  - 2018-08-28
+## [5.3.1](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.3.1) - 2018-08-28
 
 ### Changed
 * Updating icons in the Status category
@@ -484,7 +500,7 @@ information.**
 
 ---
 
-## [5.3.0](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.3.0)  - 2018-08-27
+## [5.3.0](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.3.0) - 2018-08-27
 
 ### Added
 * New Religion, and Marketing category
@@ -505,7 +521,7 @@ information.**
 
 ---
 
-## [5.2.0](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.2.0)  - 2018-07-23
+## [5.2.0](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.2.0) - 2018-07-23
 
 ### Added
 * New education and automotive categories
@@ -514,7 +530,7 @@ information.**
 
 ---
 
-## [5.1.1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.1.1)  - 2018-07-17
+## [5.1.1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.1.1) - 2018-07-17
 
 ### Added
 * Additional search terms for various icons FortAwesome/Font-Awesome#13429
@@ -535,7 +551,7 @@ information.**
 
 ---
 
-## [5.1.0](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.1.0)  - 2018-06-20
+## [5.1.0](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.1.0) - 2018-06-20
 
 **Minor version upgrade notice: there are some backward-incompatible changes to this release. See the
 [UPGRADING.md guide](https://github.com/FortAwesome/Font-Awesome/blob/master/UPGRADING.md) for more
@@ -573,14 +589,14 @@ information.**
 
 ---
 
-## [5.0.13](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.13)  - 2018-05-10
+## [5.0.13](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.13) - 2018-05-10
 
 ### Added
 * 68 icons to Free and 165 to Pro of the most requested icons in Font Awesome
 
 ---
 
-## [5.0.12](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.12)  - 2018-05-03
+## [5.0.12](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.12) - 2018-05-03
 
 ### Added
 * A long time ago in a galaxy far, far away some icons were added
@@ -590,7 +606,7 @@ information.**
 
 ---
 
-## [5.0.11](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.11)  - 2018-05-01
+## [5.0.11](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.11) - 2018-05-01
 
 ### Added
 * 16 new user icons
@@ -608,7 +624,7 @@ information.**
 
 ---
 
-## [5.0.10](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.10)  - 2018-04-10
+## [5.0.10](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.10) - 2018-04-10
 
 ### Added
 * New java brand icon FortAwesome/Font-Awesome#386
@@ -623,7 +639,7 @@ information.**
 
 ---
 
-## [5.0.9](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.9)  - 2018-03-27
+## [5.0.9](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.9) - 2018-03-27
 
 ### Added
 * New Chat icon pack and category
@@ -641,14 +657,14 @@ information.**
 
 ---
 
-## [5.0.8](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.8)  - 2018-03-01
+## [5.0.8](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.8) - 2018-03-01
 
 ### Fixed
 * OTF font files missing ligatures for Pro styles FortAwesome/Font-Awesome#12486 FortAwesome/Font-Awesome-Pro#1034
 
 ---
 
-## [5.0.7](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.7)  - 2018-02-26
+## [5.0.7](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.7) - 2018-02-26
 
 ### Added
 * New Logistics category
@@ -669,14 +685,14 @@ information.**
 
 ---
 
-## [5.0.6](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.6)  - 2018-01-25
+## [5.0.6](https://github.com/FortAwesome/Font-Awesome/releases/tag/5.0.6) - 2018-01-25
 
 ### Fixed
 * @fortawesome/fontawesome-pro-light missing submodules
 
 ---
 
-## [5.0.5](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.5)  - 2018-01-25
+## [5.0.5](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.5) - 2018-01-25
 
 ### Added
 * New Sports category
@@ -692,7 +708,7 @@ information.**
 
 ---
 
-## [5.0.4](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.4)  - 2018-01-10
+## [5.0.4](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.4) - 2018-01-10
 
 ### Changed
 * Updating all NPM package READMEs
@@ -705,7 +721,7 @@ information.**
 
 ---
 
-## [5.0.3](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.3)  - 2018-01-08
+## [5.0.3](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.3) - 2018-01-08
 
 ### Added
 * Adding elementor, youtube-square brand icons
@@ -718,7 +734,7 @@ information.**
 
 ---
 
-## [5.0.2](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.2)  - 2017-12-19
+## [5.0.2](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.2) - 2017-12-19
 
 ### Added
 * Adding amazon-pay, cc-amazon-pay, korvue, ethereum brand icons
@@ -735,7 +751,7 @@ information.**
 
 ---
 
-## [5.0.1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.1)  - 2017-12-08
+## [5.0.1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.1) - 2017-12-08
 
 ### Added
 * Adding font-awesome-flag, lock-open, redo-alt, sync-alt, undo-alt to the Free version
@@ -758,7 +774,7 @@ information.**
 
 ---
 
-## [5.0.0](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0)  - 2017-12-01
+## [5.0.0](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0) - 2017-12-01
 
 ### Added
 * License information
@@ -769,7 +785,7 @@ information.**
 
 ---
 
-## [5.0.0-rc5](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc5)  - 2017-11-28
+## [5.0.0-rc5](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc5) - 2017-11-28
 
 **This release includes breaking changes**
 
@@ -795,7 +811,7 @@ information.**
 
 ---
 
-## [5.0.0-rc4](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc4)  - 2017-10-27
+## [5.0.0-rc4](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc4) - 2017-10-27
 
 ### Added
 * Ligature support in the OTF font
@@ -817,7 +833,7 @@ information.**
 
 ---
 
-## [5.0.0-rc3](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc3)  - 2017-10-13
+## [5.0.0-rc3](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc3) - 2017-10-13
 
 ### Added
 * Node.js brand icon FortAwesome/Font-Awesome-Pro#779
@@ -841,7 +857,7 @@ information.**
 
 ---
 
-## [5.0.0-rc2](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc2)  - 2017-09-22
+## [5.0.0-rc2](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc2) - 2017-09-22
 
 ### Added
 * Brand icons: accusoft, ns8, uniregistry
@@ -852,7 +868,7 @@ information.**
 
 ---
 
-## [5.0.0-rc1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc1)  - 2017-09-15
+## [5.0.0-rc1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-rc1) - 2017-09-15
 
 ### Changed
 * New Bitbucket logo FortAwesome/Font-Awesome-Pro#720
@@ -868,7 +884,7 @@ information.**
 
 ---
 
-## [5.0.0-beta7](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta7)  - 2017-09-11
+## [5.0.0-beta7](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta7) - 2017-09-11
 
 ### Added
 * Ability to nest the `<svg>` tag within the `<i>` FortAwesome/Font-Awesome-Pro#624
@@ -885,7 +901,7 @@ information.**
 
 ---
 
-## [5.0.0-beta6](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta6)  - 2017-09-01
+## [5.0.0-beta6](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta6) - 2017-09-01
 
 ### Added
 * Ability to flip horizontal and vertical with CSS classes fa-flip-horizontal and fa-flip-vertical
@@ -902,7 +918,7 @@ information.**
 
 ---
 
-## [5.0.0-beta5](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta5)  - 2017-08-25
+## [5.0.0-beta5](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta5) - 2017-08-25
 
 ### Added
 * Full parity with Font Awesome 4! 616 total core icons in each style
@@ -916,7 +932,7 @@ information.**
 
 ---
 
-## [5.0.0-beta4](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta4)  - 2017-08-18
+## [5.0.0-beta4](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta4) - 2017-08-18
 
 ### Added
 * 590 total core icons in each style
@@ -928,7 +944,7 @@ information.**
 
 ---
 
-## [5.0.0-beta3](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta3)  - 2017-08-15
+## [5.0.0-beta3](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta3) - 2017-08-15
 
 ### Added
 * 583 total core icons in each style
@@ -940,7 +956,7 @@ information.**
 
 ---
 
-## [5.0.0-beta2](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta2)  - 2017-08-11
+## [5.0.0-beta2](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta2) - 2017-08-11
 
 ### Added
 * 570 total core icons in each style
@@ -956,7 +972,7 @@ information.**
 
 ---
 
-## [5.0.0-beta1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta1)  - 2017-08-04
+## [5.0.0-beta1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-beta1) - 2017-08-04
 
 ### Added
 * 524 total core icons in each style
@@ -978,7 +994,7 @@ information.**
 
 ---
 
-## [5.0.0-alpha7](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha7)  - 2017-07-28
+## [5.0.0-alpha7](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha7) - 2017-07-28
 
 ### Added
 * 451 total core icons in each style
@@ -996,7 +1012,7 @@ information.**
 
 ---
 
-## [5.0.0-alpha6](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha6)  - 2017-07-21
+## [5.0.0-alpha6](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha6) - 2017-07-21
 
 ### Added
 * 410 total core icons in each style
@@ -1015,7 +1031,7 @@ information.**
 
 ---
 
-## [5.0.0-alpha5](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha5)  - 2017-07-14
+## [5.0.0-alpha5](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha5) - 2017-07-14
 
 ### Added
 * 228 total brand and logo icons
@@ -1037,14 +1053,14 @@ information.**
 
 ---
 
-## [5.0.0-alpha4](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha4)  - 2017-07-07
+## [5.0.0-alpha4](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha4) - 2017-07-07
 
 ### Added
 * 93 brand icons
 
 ---
 
-## [5.0.0-alpha3](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha3)  - 2017-06-30
+## [5.0.0-alpha3](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha3) - 2017-06-30
 
 ### Added
 * 95 additional icons; including file types, directional, and some existing and new brand icons
@@ -1056,7 +1072,7 @@ information.**
 
 ---
 
-## [5.0.0-alpha2](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha2)  - 2017-06-27
+## [5.0.0-alpha2](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha2) - 2017-06-27
 
 ### Added
 * How/When to upgrade from FA4 to FA5 FortAwesome/Font-Awesome-Pro#454
@@ -1075,7 +1091,7 @@ information.**
 
 ---
 
-## [5.0.0-alpha1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha1)  - 2017-06-23
+## [5.0.0-alpha1](https://github.com/FortAwesome/Font-Awesome-Pro/releases/tag/5.0.0-alpha1) - 2017-06-23
 
 ### Added
 * 300+ more icons
